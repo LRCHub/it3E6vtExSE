@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Kung Fu Fighting",
+  "base_artist": "Carl Douglas",
+  "createdAt": "2026-03-03T11:16:59.310433Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kung Fu Fighting",
+      "artist": "Carl Douglas",
+      "has_synced": true,
+      "path": "select/01_Kung_Fu_Fighting_Carl_Douglas.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kung Fu Fighting (Noiseshaper Remix)",
+      "artist": "Carl Douglas",
+      "has_synced": false,
+      "path": "select/02_Kung_Fu_Fighting_(Noiseshaper_Remix)_Carl_Douglas.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kung Fu Fighting (On-U Sound's Mutant Hifi Cut)",
+      "artist": "Carl Douglas",
+      "has_synced": true,
+      "path": "select/03_Kung_Fu_Fighting_(On-U_Sound's_Mutant_Hifi_Cut)_Carl_Douglas.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kung Fu Fighting (Pre Fade Listening Remix)",
+      "artist": "Carl Douglas",
+      "has_synced": true,
+      "path": "select/04_Kung_Fu_Fighting_(Pre_Fade_Listening_Remix)_Carl_Douglas.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kung Fu Fighting (Uptone Remix)",
+      "artist": "Carl Douglas feat. Uptone",
+      "has_synced": false,
+      "path": "select/05_Kung_Fu_Fighting_(Uptone_Remix)_Carl_Douglas_feat._Uptone.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Carl Douglas \u0000 Kung Fu Fighting",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/06_Carl_Douglas_\u0000_Kung_Fu_Fighting_Various.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kung Fu Fighting",
+      "artist": "Carl Douglas feat. Bus Stop",
+      "has_synced": true,
+      "path": "select/07_Kung_Fu_Fighting_Carl_Douglas_feat._Bus_Stop.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kung Fu Fighting",
+      "artist": "Bus Stop, Carl Douglas",
+      "has_synced": true,
+      "path": "select/08_Kung_Fu_Fighting_Bus_Stop,_Carl_Douglas.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Kung Fu Fighting",
+      "artist": "Carl Douglas",
+      "has_synced": true,
+      "path": "select/09_Kung_Fu_Fighting_Carl_Douglas.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kung Fu Fighting",
+      "artist": "Douglas, Carl",
+      "has_synced": true,
+      "path": "select/10_Kung_Fu_Fighting_Douglas,_Carl.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Kung Fu Fighting",
+      "artist": "Cee-Lo feat. Jack Black",
+      "has_synced": false,
+      "path": "select/11_Kung_Fu_Fighting_Cee-Lo_feat._Jack_Black.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kung Fu Fighting",
+      "artist": "CeeLo Green",
+      "has_synced": true,
+      "path": "select/12_Kung_Fu_Fighting_CeeLo_Green.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Kung Fu Fighting",
+      "artist": "CeeLo Green and Jack Black",
+      "has_synced": true,
+      "path": "select/13_Kung_Fu_Fighting_CeeLo_Green_and_Jack_Black.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Kung Fu Fighting",
+      "artist": "Carl Douglas",
+      "has_synced": false,
+      "path": "select/14_Kung_Fu_Fighting_Carl_Douglas.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Kung Fu Fighting",
+      "artist": "Hans Zimmer feat. John Powell",
+      "has_synced": false,
+      "path": "select/15_Kung_Fu_Fighting_Hans_Zimmer_feat._John_Powell.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Kung Fu Fighting",
+      "artist": "Carl Douglas",
+      "has_synced": false,
+      "path": "select/pl_01_Kung_Fu_Fighting_Carl_Douglas.txt"
+    }
+  ]
+}
